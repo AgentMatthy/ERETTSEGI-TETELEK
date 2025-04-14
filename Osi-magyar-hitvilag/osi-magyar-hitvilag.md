@@ -18,6 +18,51 @@
 
 ---
 
+# Az ősi magyar hitvilág
+
+- A kereszténység felvétele előtt a magyaroknak volt saját hiedelemrendszerük (ezt nevezték az államalapítás után „pogány vallásnak")
+
+- A honfoglalás előtti őstörténeti korszak magyar mitológiájának elemeit a magyar népművészet, népszokások, népköltészet (mondák, mesék) és később keletkezett írásos dokumentumok őrzik
+
+- A hitvilág őriz totemisztikus (állatok tiszteletén alapuló) elemeket, pl. turulmadár
+
+- Az ősi magyar hitvilág a belső-ázsiai népek sámánhitéhez (samanizmus) hasonló
+
+## Központi alakok
+
+- **Sámán (táltos)**: a közösség lelki-szellemi vezetője, jós, gyógyító; sámándobjának segítségével képes révületbe esni és utazást tenni a tapasztalaton túli világokba; kiválasztottságát testi jel jelzi
+
+- **Regösök**: eredetileg a sámán énekmondói, ráéneklői voltak (a középkorban a király körüli énekmondót jelenti a regös)
+
+- **Mágusok**: tanítók (a mágus kiválasztottsága nem testi jelekben, hanem különös szellemi képességeiben mutatkozik meg)
+
+## Világkép
+
+A magyar mitologikus világkép központi eleme az égig érő fa (világfa), amely tartja az égboltot
+
+### A háromosztatú világ szintjei:
+
+- **A felső világ**: a jó szellemek lakóhelye – a teremtő Öregisten/Jóisten/Uristen; Boldogasszony (baba), Szélanya
+
+- **A középső világ lakói**: az emberek; az isteni világgal kapcsolatot tartó kiválasztottak (táltos, garabonciás, boszorkány) és természetfeletti lények és mitikus állatok (manó, tündér, sárkány, lidérc, turul, griff, csodaszarvas stb.)
+
+- **Az alsó világ**: a rossz szellemek világa – az ördög, kísértetek, démonok (mumus, guta, mirigy stb.)
+
+## Források és hagyományok
+
+A magyarságnak csak áttételesen maradt fenn mítosznak tekinthető szövege, egykorú írott szöveg nincs:
+- Az ősi történeteket, hagyományokat a szóbeliség korában, a középkor folyamán is az énekmondók (jokulátorok, regösök) tartották fenn
+- A középkori krónikákban lejegyezték
+- A romantika korában módszeresen gyűjtötték a népregéket, népmeséket, népmondákat (pl. Arany László, Erdélyi János)
+
+## Ismert mondák
+
+- **Eredetmonda / őstörténeti monda**: a magyar nép eredetéről (Csodaszarvas-monda; Álmos-monda)
+
+- **Történeti monda**: történelmi eseményekről (a honfoglalásról: A fehér ló mondája; a kalandozások korából: Lehel vezér, Botond)
+
+---
+
 # Ősi magyar hitvilág és más kultúrák ősi irodalmi formái
 
 ## Az ősi magyar hitvilág alapjai és jellemzői
