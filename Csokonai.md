@@ -1,3 +1,48 @@
+# Csokonai Vitez Mihaly
+- Irodalomtortenet:
+    - Sokhangu kolto - otvozi a XVIII-XIX. szazad minden stilustorekveseit
+    - Klasszicizmus, szentimentalizmus, rokoko
+    - tobbfele versrendszer (utemhangsulyos, idomertekes, szimultan) - mestersegbeli tudasa
+    - eletmuvet tudatosan epitette - szovegeit gyakran atdolgozta
+
+- Elete:
+    - Debrecenben szuletett, polgari csalad
+    - Debreceni Reformatus Kollegiumban tanult - nagyon jol
+    - 1794-tol o vezette a kollegiumi poetaosztalyt
+    - egy kotelezo kollegiumi igehirdetes utan engedely nelkul Pestre utazott
+    - a penzzel nem tudott elszamolni
+    - kizartak a kollegiumbol
+    - Sarospatakon tanult, de tanulmanyait nem fejezte be
+    - Dietai Magyar Muzsa - verses hetilap
+    - 1797-ben Komaromban megismerte Vajda Juliannat (Lilla) - megkerte a lany kezat, de apja ferjhez adta
+    - 1799-1800-ban fel evig Csurgon tanitott
+    - 1801-ben szemelyesen is talalkozott Kazinczyval
+    - rengeteg muveszi terve volt
+    - 1802-ben a debreceni tuzveszben leegett a csaladi hazuk
+    - onnantol szegenyes korulmenyek kozott elt
+    - nagyvaradon halotti bucsubeszedet felolvasta Halotti versek cimu letelmeleti verset
+    - megfazott, honapokig betegeskedett
+    - 1805 januarjaban halt meg
+
+- Alkotoi korszakok:
+    1. szakasz (1793-1800) - Csokonai kolteszete a boldogsagfilozofia jegyeben
+        - Anakreoni hagyomanyra epul
+        - Boldogsagfilozofia: az egyeni boldogsag az egesz emberiseg joletehez vezet
+        - Az elet anyagi jellegu, pillanatnyi oromei fontosak
+        - Az erkölcs es az elvezet nem egymast kizaro kategoriak
+        - Boldogsagfilozofia alkotoi program: a „vig poeta” koltoszerepe
+        - Rokoko konnyed-jatekos es a szentimentalizmus erzekeny versnyelve
+
+    2. szakasz (1800-1805) - Nemzeti, nepies es bolcseleti iranyok a Csokonai-liraban
+        - 1800 utan Csokonai uj kolteszeti iranyokat jelol ki maga szamara
+        - Elokesziti korabbi verseinek kiadasat
+        - Harom uj koltoi irany jelentkezett:
+            1. muvelt, tudos kolto szerepe (poeta doctus)
+            2. nemzet multjat megeneklo bardkoltoi szerep
+            3. korai nepiesseg jegyeben fogant nepies dalok
+
+---
+
 ## PORTRÉ: CSOKONAI VITÉZ MIHÁLY
 
 ### Irodalomtörténeti helye
