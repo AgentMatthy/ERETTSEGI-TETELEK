@@ -1,12 +1,12 @@
-- [x] **Balassi Bálint:** reneszánsz jellemzők szerelmi költészetében
+- [-] **Balassi Bálint:** reneszánsz jellemzők szerelmi költészetében
    a reformáció hatása istenes versében
    vitézi éneke: Egy katonaének
 
-- [ ] **Kölcsey Ferenc:**
+- [-] **Kölcsey Ferenc:**
    a) Himnusz-Szózat összehasonlító elemzése
    b) reformkori lírája és a Parainesis
 
-- [ ] **Vörösmarty Mihály:** a magyar romantika elindítója
+- [-] **Vörösmarty Mihály:** a magyar romantika elindítója
    reformkori és 1849 utáni lírája
 
 - [-] **Zrínyi Miklós:** Szigeti veszedelem – a barokk eposz sajátosságai
@@ -21,7 +21,7 @@
 
 - [-] **Molière:** Tartuffe - a komikum megjelenése a francia klasszicista drámában
 
-- [ ] **Katona József:** Bánk bán – nemzeti sorskérdések, a szerkezet és a dramaturgia
+- [-] **Katona József:** Bánk bán – nemzeti sorskérdések, a szerkezet és a dramaturgia
     sajátosságai, drámatipológia
 
 - [x] **Biblia:** az Ó-és Újszövetség részei, irodalmi műfajok és motívumok
