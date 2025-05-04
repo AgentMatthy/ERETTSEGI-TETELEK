@@ -15,7 +15,7 @@
 
 - [ ] **Berzsenyi Dániel:** lírája a klasszicizmus és a romantika határán
 
-- [-] **Szophoklész:** a thébai mondakör és az Antigoné
+- [x] **Szophoklész:** a thébai mondakör és az Antigoné
 
 - [ ] **Shakespeare:** Rómeó és Júlia – a reneszánsz szerelmi tragédia
 
@@ -26,7 +26,7 @@
 
 - [x] **Biblia:** az Ó-és Újszövetség részei, irodalmi műfajok és motívumok
 
-- [ ] **Homérosz:** a trójai mondakör, az eposz műfaji jegyei és az eposzi kellékek az
+- [x] **Homérosz:** a trójai mondakör, az eposz műfaji jegyei és az eposzi kellékek az
     Iliászban vagy az Odüsszeiában
 
 - [ ] **A magyar reformáció vallásos és világi irodalma**
