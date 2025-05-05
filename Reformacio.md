@@ -1,3 +1,94 @@
+# Reformacio elterjedese
+
+- Luther Marton - 1517-ei fellepese miatt rovidesen magyarorszagon is elterjedt
+- nagy szerepe van az eloreformatoroknak is, mint pl: husz janos
+- Wittengergi egyetemen magyar diakok - luther 95 pontja a wittenbergi varon
+
+## Okai:
+- legfobb oka - mohacsi csata elvesztese utani szemlelet:
+    - isten a bun miatt buntet:
+        - mohacsi csata elvesztese
+        - az orszag harom reszre szakadasa
+
+- nem eltek vallasosan az emberek, ezert ujitjak meg hituket, gondolvan hogy az valtoztat rajta
+- reformacio: katolikus egyhaz megujitasa, de vallasszakadast eredmenyezett
+    - a katolikus felekezetekbol kivaltak a protestans felekezeteket
+
+- kezdetben lutheri eszmek
+- a reformacio orszag keleti reszen terjedt el leginkabb
+
+- erdelyben tordai vallasbeke: 4 vallas egymas mellett bekeben:
+    - katolikus, evangeliukus, reformatusok, unitarisok
+    - magyarorszagon bekeben eltek, mashol viszont haboru a protestansok ellen
+
+# irodalom:
+
+- anyanyelvet szorgalmazta
+- elitelte a latint
+
+
+- nyomdak jottek letre, iskolakat alapitottak
+    - celja: a nep irni olvasni tanitasa
+    - igy jon ide az irodalom is
+        - anyanyelvi kultura
+
+- bornemissza perter
+    - balassi balintnak is a neveloje
+
+- sztarai
+
+- zsoltarforditasok:
+    - zsoltar parafrazisok - leforditotta az osszes zsoltart
+        - parafrazis: nem szoszerint
+
+- magyar nyelvu imadsagok:
+    - heltai gaspar
+
+- bibliaforditasok jelentek meg, de kezdetben nem teljesek
+
+bibliaforditasok:
+    - szent pal levelei - krakko
+    - becs - ujszovetseg, nem teljes, hanem csak a negy evangeliumot
+    - szilveszter janos - nadasdi tamas nyomdajaban 
+    - idomertekes disztichon - ajanlas
+        - elso magyar idomertekes vers
+    - teljes bibliaforditas
+    
+
+- protestans biblia
+elso katolikus biblia
+
+magyarorszagon a reformacio es a reneszansz egyszerre fejti ki a hatasat
+
+reneszansz - embert rakja kozeppontba
+reformacio - vallasos
+
+kozosen tamadtak a feudalis berendezkdest
+
+verses epikai mufajok:
+    - historias enekek
+    - szephistoria:
+        - reneszansz szellem
+
+vilagi mufajok:
+    - fabula
+        - allati mese, antropomorf
+        - egyszeru
+
+    - heltai gaspar - 100 fabula
+    - szep magyar komedia
+
+balassi balintot is reformacio
+    - tokeletesen otvozte a reformaciot es a reneszanszot
+
+
+
+
+
+
+
+
+
 # Reformacio Magyarorszagon
 
 - 11-15. sz. - a reneszansz 1. szakasza (humanizmus)

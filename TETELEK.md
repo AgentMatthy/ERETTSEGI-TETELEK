@@ -19,7 +19,7 @@
 
 - [ ] **Shakespeare:** Rómeó és Júlia – a reneszánsz szerelmi tragédia
 
-- [ ] **Molière:** Tartuffe - a komikum megjelenése a francia klasszicista drámában
+- [x] **Molière:** Tartuffe - a komikum megjelenése a francia klasszicista drámában
 
 - [x] **Katona József:** Bánk bán – nemzeti sorskérdések, a szerkezet és a dramaturgia
     sajátosságai, drámatipológia
@@ -29,6 +29,6 @@
 - [x] **Homérosz:** a trójai mondakör, az eposz műfaji jegyei és az eposzi kellékek az
     Iliászban vagy az Odüsszeiában
 
-- [ ] **A magyar reformáció vallásos és világi irodalma**
+- [x] **A magyar reformáció vallásos és világi irodalma**
 
 - [x] **Az ősi magyarok hitvilága:** az irodalom ősi formái

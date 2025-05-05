@@ -1,3 +1,94 @@
+1800 - pusztanyek - ma mar kapolnasnyek (fejer megye)
+- kornyeken jart iskolaba
+- utana pannonhalma, majd pest
+
+reformkor poliktikai eleteben resztvett
+tamnogadta a sajtoszabadsagot
+
+zalan futasa:
+- orszagos ismertseget szerzett neki
+
+- honfoglalaskori eposz
+    - arpad fejedelem legyozi zalan bolgar fejedelmet
+    - romantika multidezo szellemet mutatja, mert a romantikara jellemzo h a sajat orszag multjarol irnak
+
+- csongor es tunde - tovabb fokozta ismertseget
+    - romantika stilusa, es magyar nepmesek, mondak talalkoznak
+        - magyar nepi hiedelem elemei + romantikus stilus
+
+- mindig a nemzetert kuzdott
+- tamogatta a szabadsagharcot
+
+vilagosi fegyverletetel
+osszetort a lelke
+bizott a szabadsagharcban
+sok evi kuzdelme hirtelen elbuklott
+
+jelentos szerepet vallalt a kozeletben is
+
+1855-ben halt meg
+
+
+- kolteszeteben kulonleges:
+    - mufai sokfeleseg:
+        - epika: zalan futasa
+        - lira:
+            - ket reszre bontjuk:
+                - vilagosi fegyverletetel elotti, es utani
+        - drama:
+            - csongor es tunde -> komedia
+
+    - ket fobb szerelme volt:
+        perczel etelka
+        a csaladnal volt egy ideig nevelo
+        nem teljesedett ki
+        - helvilahoz, keso vagy c. koltemenyeket neki irta
+
+    - felesegul laurat vette
+        - nagyon kesoi hazassag
+        - probalta lekuzdeni
+        - nem sikerult
+        - hosszas tepodes utan laura beleegyezett a hazassagba
+        - 26 evvel volt fiatalabb, azaz 43 evesen vette felesegul, ekkor 17 eves volt laura
+
+    - fegyverletetel elotti kolteszetehez tartozik meg:
+    - gondolatok a konyvtarban:
+        - cim: konyvtarban keletkezett
+        - mufaj: gondolatok = filozofikus koltemeny, rapszodia is
+        - a magyar nemzet sorsarol ir
+
+    - fegyverletetel utani kolteszete:
+        - melankolikus
+
+        - eloszo:
+            - cim: prologus
+            - mufaj: rapszodia
+            - alapvetoen az evszakok valtakozasarol ir
+                - metaforikus, mert
+
+    - rovidesen halala elott irta meg a ven cigany cimu muvet
+        - cim: onmetafora:
+            - ven -> eletkor
+            - cigany -> zenesz, de o ir
+            - vershelyzet:
+                - a lirai en megszolitja a cigany muzsikust h zeneljen meg
+            - fontos a refren:
+            - gyakran irt hazafias muveket, amivel buzditotta a nepet
+            - pont amikor szukseg lett volna ra, akkor nem volt ra lehetoseg
+            - a mu vegen a refren megvaltozik, optimista lesz
+                - irjon, mert akk elfelejti a vilag gondjait
+
+
+
+
+
+
+
+
+
+
+
+
 # Vörösmarty Mihály
 
 ## Irodalomtörténeti helye
