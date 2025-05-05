@@ -1,3 +1,21 @@
+elete
+kolteszete
+angol reneszansz szinjatszas
+romeo es julia
+    - mufaja, konfliktus
+
+shakespeare dramaira jellemzoek
+    - remenysugar
+
+
+
+
+
+
+
+
+
+
 ## Shakespeare (1564–1616)
 
 **Élete**[1]

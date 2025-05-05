@@ -2,7 +2,7 @@
    a reformáció hatása istenes versében
    vitézi éneke: Egy katonaének
 
-- [ ] **Kölcsey Ferenc:**
+- [-] **Kölcsey Ferenc:**
    a) Himnusz-Szózat összehasonlító elemzése
    b) reformkori lírája és a Parainesis
 
