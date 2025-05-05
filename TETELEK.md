@@ -1,4 +1,4 @@
-- [ ] **Balassi Bálint:** reneszánsz jellemzők szerelmi költészetében
+- [-] **Balassi Bálint:** reneszánsz jellemzők szerelmi költészetében
    a reformáció hatása istenes versében
    vitézi éneke: Egy katonaének
 
@@ -21,7 +21,7 @@
 
 - [ ] **Molière:** Tartuffe - a komikum megjelenése a francia klasszicista drámában
 
-- [ ] **Katona József:** Bánk bán – nemzeti sorskérdések, a szerkezet és a dramaturgia
+- [x] **Katona József:** Bánk bán – nemzeti sorskérdések, a szerkezet és a dramaturgia
     sajátosságai, drámatipológia
 
 - [x] **Biblia:** az Ó-és Újszövetség részei, irodalmi műfajok és motívumok

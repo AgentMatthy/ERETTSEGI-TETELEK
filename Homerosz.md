@@ -1,6 +1,10 @@
 # Homérosz: a trójai mondakör, az eposz műfaji jegyei és az eposzi kellékek az Iliászban vagy az Odüsszeiában (Füzet (9) + rengeteg lap)
 
 - Ki volt Homérosz?
+    - okori gorog kolto
+    - kr. e. 8. sz.
+    nagyon nagy hatassal volt az okori gorog kulturara; o teremtette meg a nep fejeben eloo mondakbol
+    
 
 - A trójai mondakör rövid bemutatása (Felvezetés: Homérosz két eposzának forrása a trójai mondakör)
 
