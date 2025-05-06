@@ -6,7 +6,7 @@
    a) Himnusz-Szózat összehasonlító elemzése
    b) reformkori lírája és a Parainesis
 
-- [ ] **Vörösmarty Mihály:** a magyar romantika elindítója
+- [-] **Vörösmarty Mihály:** a magyar romantika elindítója
    reformkori és 1849 utáni lírája
 
 - [ ] **Zrínyi Miklós:** Szigeti veszedelem – a barokk eposz sajátosságai

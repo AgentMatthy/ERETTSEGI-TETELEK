@@ -26,7 +26,6 @@
 - anyanyelvet szorgalmazta
 - elitelte a latint
 
-
 - nyomdak jottek letre, iskolakat alapitottak
     - celja: a nep irni olvasni tanitasa
     - igy jon ide az irodalom is

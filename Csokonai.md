@@ -1,5 +1,50 @@
+- nagyon muvelt volt (poeta doctus)
+- stilusszintezis
+- 1773-ban szuletett
+- muveltseget debreceni reformatus kollegiumban, autodidakta modon szerezte
+- egy kotelezo kollegiumi igehirdetes utan engedely nelkul Pestre utazott
+- a penzzel nem tudott elszamolni
+- kizartak a kollegiumbol
+- Sarospatakon tanult, de tanulmanyait nem fejezte be
+
+- eleinte vidam termeszetu kolto volt
+- elet oromere es a szerelemre helyezi a hangsulyt - rokoko
+    - anakreoni dalok
+    - megismeri Vajda Juliannat
+        - tartozkodo kerelem
+
+- 1798-ban juliat apja ferjhez adta - gazdag ferfi
+    - osszetort a lelke
+    - A Remenyhez
+        - klasszicista, keretes szerkezet
+    - A Magánossághoz
+        - elegico oda
+    - a maganossag egy menedek a romlott tarsadalom elol
+        - ROUSSEAU
+
+- ezutan sem fordult jobbra a sorsa
+    - leegett egy tuzveszben a haza
+    - nem vettek fel sehova dolgozni
+
+- elete utolso szakaszaban alig irt uj muvet, csak atrendezgette, tokeletessegig csiszolta meglevo muveit
+
+- nagyvaradon halotti bucsubeszedkent felolvasta Halotti versek cimu letelmeleti verset
+- megfazott, honapokig betegeskedett
+- 1805 januarjaban halt meg
+
+
+
+
+
+
+
+
+
+
+
 # Csokonai Vitez Mihaly
 - Irodalomtortenet:
+    - klasszicizmus legfontosabb koltoje
     - Sokhangu kolto - otvozi a XVIII-XIX. szazad minden stilustorekveseit
     - Klasszicizmus, szentimentalizmus, rokoko
     - tobbfele versrendszer (utemhangsulyos, idomertekes, szimultan) - mestersegbeli tudasa
