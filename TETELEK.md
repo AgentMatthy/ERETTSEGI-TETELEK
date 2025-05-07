@@ -9,15 +9,15 @@
 - [-] **Vörösmarty Mihály:** a magyar romantika elindítója
    reformkori és 1849 utáni lírája
 
-- [ ] **Zrínyi Miklós:** Szigeti veszedelem – a barokk eposz sajátosságai
+- [-] **Zrínyi Miklós:** Szigeti veszedelem – a barokk eposz sajátosságai
 
-- [ ] **Csokonai Vitéz Mihály:** műfajok és stílusok sokszínűsége lírájában
+- [x] **Csokonai Vitéz Mihály:** műfajok és stílusok sokszínűsége lírájában
 
 - [ ] **Berzsenyi Dániel:** lírája a klasszicizmus és a romantika határán
 
 - [x] **Szophoklész:** a thébai mondakör és az Antigoné
 
-- [ ] **Shakespeare:** Rómeó és Júlia – a reneszánsz szerelmi tragédia
+- [-] **Shakespeare:** Rómeó és Júlia – a reneszánsz szerelmi tragédia
 
 - [x] **Molière:** Tartuffe - a komikum megjelenése a francia klasszicista drámában
 
